@@ -24,7 +24,7 @@
 }
 
 .ripple:active::before {
-  animation-name: circle;
+  animation-name: ripple;
 }
 
 @-webkit-keyframes ripple {
